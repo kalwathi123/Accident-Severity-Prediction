@@ -109,6 +109,3 @@ streamlit run streamlit_app.py
 2. SMOTE for high-dimensional class-imbalanced data
 3. scikit-learn Documentation
 4. Comprehensive Guide to Multiclass Classification Metrics
-
-## License
-[Add your license information here]
