@@ -38,19 +38,7 @@ Due to size limitations of GitHub, please download the following essential folde
 1. Clone this repository
 2. Download both folders from the OneDrive links above  
 3. Extract and place both folders in the root directory of the project
-4. Ensure the following structure:
-bash
-Accident-Severity-Prediction/
-├── data/
-│   └── us_accidents_data.csv
-├── pickle/
-│   ├── model/
-│   │   ├── random-forest.pkl
-│   │   ├── knn.pkl
-│   │   └── ...
-│   └── ...
-├── src/
-└── App_Screenshots/
+
 
 ## Methodology
 
