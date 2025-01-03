@@ -19,6 +19,39 @@ To create a sophisticated predictive model that can effectively classify acciden
 - Original dataset contains over 7 million records
 - Used a sampled version containing 500k records for this project
 
+  ## Project Structure
+- `src/`: Contains source code files including Streamlit app and Jupyter notebooks
+- `App_Screenshots/`: Contains application screenshots showing various features and functionalities
+
+## Required Files Download
+Due to size limitations of GitHub, please download the following essential folders from OneDrive:
+
+### Data and Model Files
+1. Download 'data' folder: [Download Data Folder](https://buffalo.box.com/s/g8qhfenuf0dn0b2h8yvzd54567bhf0l4)
+  - Contains the US accidents dataset (us_accidents_data.csv)
+  
+2. Download 'pickle' folder: [Download Pickle Folder](https://buffalo.box.com/s/2uo1g97adg8f3uv9v98cae1u9ukqt4z3)
+  - Contains trained models and preprocessed data files
+  - Includes Random Forest, KNN, and other model files
+
+### Installation Steps
+1. Clone this repository
+2. Download both folders from the OneDrive links above  
+3. Extract and place both folders in the root directory of the project
+4. Ensure the following structure:
+bash
+Accident-Severity-Prediction/
+├── data/
+│   └── us_accidents_data.csv
+├── pickle/
+│   ├── model/
+│   │   ├── random-forest.pkl
+│   │   ├── knn.pkl
+│   │   └── ...
+│   └── ...
+├── src/
+└── App_Screenshots/
+
 ## Methodology
 
 ### Data Preprocessing
@@ -110,5 +143,3 @@ streamlit run streamlit_app.py
 3. scikit-learn Documentation
 4. Comprehensive Guide to Multiclass Classification Metrics
 
-## License
-[Add your license information here]
