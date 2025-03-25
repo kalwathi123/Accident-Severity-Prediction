@@ -121,9 +121,9 @@ streamlit run streamlit_app.py
 6. Develop traffic regulation impact measurements
 
 ## Contributors
-- Ajay Vijayakumar (vijayak3)
-- Shivaramakrishnan Rajendran (rajendr6)
-- Mohammed Abdul Rahman Kalwathi Jahir Hussain (mjahirhu)
+- Ajay Vijayakumar
+- Shivaramakrishnan Rajendran 
+- Mohammed Abdul Rahman Kalwathi Jahir Hussain 
 
 ## References
 1. Dealing with Imbalanced Data - Towards Data Science
